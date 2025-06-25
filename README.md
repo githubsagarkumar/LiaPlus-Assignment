@@ -1,3 +1,4 @@
+![Screenshot 2025-06-25 221242](https://github.com/user-attachments/assets/705fd354-e7a5-49c6-bfa4-08cd34c4b440)
 # Expense Tracker
 
 A full-stack expense tracker application built with Node.js, Express, MongoDB, and React. Users can add, edit, delete, and visualize their expenses.
