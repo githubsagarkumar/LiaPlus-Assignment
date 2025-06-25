@@ -1,3 +1,4 @@
+![Screenshot 2025-06-25 221255](https://github.com/user-attachments/assets/655c3559-94e9-46a2-b580-7c802ee0fcf0)
 ![Screenshot 2025-06-25 221242](https://github.com/user-attachments/assets/705fd354-e7a5-49c6-bfa4-08cd34c4b440)
 # Expense Tracker
 
