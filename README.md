@@ -31,7 +31,9 @@ node server.js
 The backend runs on [http://localhost:5000](http://localhost:5000)
 
 ### 2. Frontend Setup
-```bash
+```bash![Screenshot 2025-06-25 221242](https://github.com/user-attachments/assets/9![Screenshot 2025-06-25 221255](https://github.com/user-attachments/assets/067dfaf8-3563-4990-ae73-f3e6d7a71314)
+ade005b-5298-444e-8541-b091a65d7c19)
+
 cd frontend
 npm install
 npm start
